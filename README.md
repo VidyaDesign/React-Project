@@ -1,7 +1,7 @@
 # React 
 Projeto  | React avançado
 
-# ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) Layout Simples em React
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30" style="vertical-align: middle;"> Layout Simples em React
 
 Este projeto apresenta um layout básico desenvolvido em React, contendo um cabeçalho, uma lista, um título, um parágrafo, uma imagem e um rodapé. É uma excelente maneira de explorar as funcionalidades do React e entender como estruturar componentes de forma eficiente.
 
@@ -38,4 +38,3 @@ Este projeto foi criado com [Create React App](https://github.com/facebook/creat
 npm start
 # ou
 yarn start
-
