@@ -21,7 +21,7 @@ React é uma biblioteca JavaScript de código aberto para construir interfaces d
 
 ## Autor
 
-- **Mahavidya**: A criadora deste projeto, comprometida em desenvolver soluções inovadoras e acessíveis.
+- **Mahavidya**: A criadora deste projeto está comprometida em desenvolver soluções inovadoras e acessíveis.
 
 ## Aprendizados
 
